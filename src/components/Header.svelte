@@ -16,8 +16,10 @@
     <nav class="hidden md:flex items-center gap-4 lg:gap-6">
       <a
         class="duration-200 hover:text-indigo-400 hover:scale-110 cursor-pointer"
-        href="#project">Project</a
+        href="#product"
       >
+        Product
+      </a>
       <a
         class="duration-200 hover:text-indigo-400 hover:scale-110 cursor-pointer"
         href="#reviews">Reviews</a
