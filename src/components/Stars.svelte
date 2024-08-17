@@ -4,7 +4,7 @@
     <div class="grid place-items-center relative">
       <i class="fa-solid fa-star opacity-0"></i>
       <div
-        class={`absolute top-0 left-0 grid place-items-center ${index === 4 ? "w-[60%] overflow-hidden" : ""}`}
+        class={`absolute top-0 left-0 grid place-items-center ${index === 4 && "w-[60%] overflow-hidden"}`}
       >
         <i class="fa-solid fa-star text-amber-400"></i>
       </div>
